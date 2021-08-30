@@ -46,7 +46,7 @@ dependencies {
 　そうしたら、MainActivity.ktでインポートします。
  
  MainAchtivity.kt
- ```kotlin:MainActivity
+ ```
  package com.example.getlatestlocation
 
 import android.Manifest
